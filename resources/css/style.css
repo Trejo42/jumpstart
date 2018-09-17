@@ -1,0 +1,11 @@
+body {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav a {
+  font-size: 1.1rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #399bd1;
+}
