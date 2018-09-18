@@ -3,9 +3,14 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-nav a {
+nav ul a {
   font-size: 1.1rem;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   color: #399bd1;
+}
+
+
+/* Jumbotron */
+div .jumbotron {
+  background-image: url('../images/jumbotron-bike.jpg')
 }
